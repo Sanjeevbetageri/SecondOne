@@ -9,7 +9,7 @@ public class HMConcept {
 		// TODO Auto-generated method stub
 		
 		HashMap<Integer,String> hm = new HashMap<Integer,String>();
-		hm.put(1, "Selenium");
+		hm.put(1, "Selem");
 		hm.put(2, "QTP");
 		hm.put(3,"TC");
 		hm.put(5, "value");
